@@ -1,0 +1,151 @@
+{
+ "n_order_lines": 12234,
+ "n_lines_without_item": 137,
+ "n_menu_items": 32,
+ "full": {
+  "n_tx": 5343,
+  "n_itemsets": 591,
+  "n_rules": 542,
+  "size_counts": {
+   "1": 32,
+   "2": 449,
+   "3": 110
+  },
+  "conf_quartiles": [
+   0.09999999999999999,
+   0.11928164057759981,
+   0.19642857142857142,
+   0.25,
+   0.5454545454545455
+  ],
+  "lift_quartiles": [
+   0.9289481309765285,
+   1.2312724302068458,
+   2.1033149100803534,
+   2.714702708570677,
+   5.143269693566501
+  ],
+  "frac_lift_gt1": 0.9575645756457565
+ },
+ "top_lift": [
+  {
+   "A": [
+    "Veggie Burger",
+    "French Fries"
+   ],
+   "B": [
+    "Tofu Pad Thai"
+   ],
+   "sup": 0.0022459292532285235,
+   "conf": 0.5217391304347826,
+   "lift": 5.143269693566501
+  },
+  {
+   "A": [
+    "Chicken Burrito",
+    "Meat Lasagna"
+   ],
+   "B": [
+    "Hamburger"
+   ],
+   "sup": 0.0022459292532285235,
+   "conf": 0.5454545454545455,
+   "lift": 4.898090145148969
+  },
+  {
+   "A": [
+    "Orange Chicken",
+    "Salmon Roll"
+   ],
+   "B": [
+    "French Fries"
+   ],
+   "sup": 0.002058768482126146,
+   "conf": 0.5,
+   "lift": 4.883912248628884
+  },
+  {
+   "A": [
+    "Hamburger",
+    "Chicken Burrito"
+   ],
+   "B": [
+    "Meat Lasagna"
+   ],
+   "sup": 0.0022459292532285235,
+   "conf": 0.23529411764705882,
+   "lift": 4.726227333038478
+  },
+  {
+   "A": [
+    "French Fries",
+    "Tofu Pad Thai"
+   ],
+   "B": [
+    "Veggie Burger"
+   ],
+   "sup": 0.0022459292532285235,
+   "conf": 0.20689655172413796,
+   "lift": 4.704035216434336
+  },
+  {
+   "A": [
+    "Korean Beef Bowl",
+    "Chicken Burrito"
+   ],
+   "B": [
+    "Steak Burrito"
+   ],
+   "sup": 0.0022459292532285235,
+   "conf": 0.29268292682926833,
+   "lift": 4.480816269480746
+  },
+  {
+   "A": [
+    "Chicken Burrito",
+    "Spaghetti & Meatballs"
+   ],
+   "B": [
+    "Mushroom Ravioli"
+   ],
+   "sup": 0.0022459292532285235,
+   "conf": 0.29268292682926833,
+   "lift": 4.392710331597699
+  },
+  {
+   "A": [
+    "Steak Torta",
+    "Spaghetti"
+   ],
+   "B": [
+    "Pork Ramen"
+   ],
+   "sup": 0.002058768482126146,
+   "conf": 0.28205128205128205,
+   "lift": 4.293447293447294
+  }
+ ],
+ "holdout": {
+  "n_train_orders": 3510,
+  "n_test_orders": 1833,
+  "n_eval_baskets": 1099,
+  "n_rules_train": 506,
+  "hit_rate": {
+   "1": {
+    "rules": 0.0373066424021838,
+    "popularity": 0.048225659690627844,
+    "random_expected": 0.03344870499099951
+   },
+   "3": {
+    "rules": 0.13193812556869883,
+    "popularity": 0.15195632393084624,
+    "random_expected": 0.10034611497299674
+   },
+   "5": {
+    "rules": 0.22747952684258416,
+    "popularity": 0.2602365787079163,
+    "random_expected": 0.1672435249549957
+   }
+  }
+ }
+}

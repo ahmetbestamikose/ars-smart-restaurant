@@ -1,0 +1,28 @@
+# CK+ images must not be redistributed (CK+ user agreement) - keep them local only
+data/ckplus48/*
+!data/ckplus48/.gitkeep
+# file lists / fold assignments derived from CK+ are generated locally, not shared
+data/ckplus48_file_list.csv
+data/protocolB_folds.csv
+# trained weights and checkpoints (derived from CK+)
+*.h5
+*.keras
+*.weights.h5
+# local databases may contain test data
+*.db
+*.db-wal
+*.db-shm
+# secrets
+.env
+*.env
+# Python / OS / IDE
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+# build outputs
+target/
+node_modules/
+.expo/

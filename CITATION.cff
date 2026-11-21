@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "ARS: restaurant management prototype with facial expression recognition and association-rule menu suggestions (code and evaluation)"
+authors:
+  - family-names: Salman
+    given-names: Beyza
+  - family-names: Söylemez
+    given-names: Zeynep
+  - family-names: Köse
+    given-names: Ahmet Bestami
+    orcid: "https://orcid.org/0000-0003-3817-0999"
+    email: koseahmet@isparta.edu.tr
+    affiliation: "Isparta University of Applied Sciences"
+  - family-names: Aydoğan
+    given-names: Tuncay
+license: MIT
+repository-code: "https://github.com/ahmetbestamikose/ars-smart-restaurant"
+preferred-citation:
+  type: article
+  title: "A restaurant management prototype combining real-time facial expression recognition with association-rule menu suggestions"
+  authors:
+    - family-names: Salman
+      given-names: Beyza
+    - family-names: Söylemez
+      given-names: Zeynep
+    - family-names: Köse
+      given-names: Ahmet Bestami
+    - family-names: Aydoğan
+      given-names: Tuncay
+  journal: "Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi"
+  status: submitted
+  year: 2026

@@ -1,0 +1,66 @@
+{
+ "n_baskets": 1099,
+ "baskets_with_fewer_than_5_rule_suggestions": 118,
+ "rule_list_length_counts": {
+  "3": 88,
+  "4": 30,
+  "5": 981
+ },
+ "HR@1": {
+  "rules": 3.7306642402183803,
+  "rules_ci": [
+   2.6387625113739763,
+   4.9135577797998184
+  ],
+  "popularity": 4.822565969062785,
+  "popularity_ci": [
+   3.6396724294813465,
+   6.096451319381256
+  ],
+  "diff_pop_minus_rules_ci": [
+   -0.363967242948135,
+   2.547770700636942
+  ],
+  "discordant_rules_only": 30,
+  "discordant_popularity_only": 42,
+  "mcnemar_exact_p": 0.1945051658673991
+ },
+ "HR@3": {
+  "rules": 13.193812556869883,
+  "rules_ci": [
+   11.282984531392175,
+   15.286624203821656
+  ],
+  "popularity": 15.195632393084624,
+  "popularity_ci": [
+   13.10282074613285,
+   17.29071883530481
+  ],
+  "diff_pop_minus_rules_ci": [
+   -0.18198362147406616,
+   4.094631483166515
+  ],
+  "discordant_rules_only": 65,
+  "discordant_popularity_only": 87,
+  "mcnemar_exact_p": 0.08817464794467401
+ },
+ "HR@5": {
+  "rules": 22.747952684258415,
+  "rules_ci": [
+   20.291173794358507,
+   25.204731574158323
+  ],
+  "popularity": 26.023657870791627,
+  "popularity_ci": [
+   23.56687898089172,
+   28.662420382165603
+  ],
+  "diff_pop_minus_rules_ci": [
+   0.72793448589627,
+   5.823475887170154
+  ],
+  "discordant_rules_only": 86,
+  "discordant_popularity_only": 122,
+  "mcnemar_exact_p": 0.015031765413701787
+ }
+}
