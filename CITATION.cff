@@ -4,8 +4,10 @@ title: "ARS: restaurant management prototype with facial expression recognition 
 authors:
   - family-names: Salman
     given-names: Beyza
+    orcid: "https://orcid.org/0009-0006-4098-2805"
   - family-names: Söylemez
     given-names: Zeynep
+    orcid: "https://orcid.org/0009-0002-9134-7167"
   - family-names: Köse
     given-names: Ahmet Bestami
     orcid: "https://orcid.org/0000-0003-3817-0999"
@@ -13,11 +15,12 @@ authors:
     affiliation: "Isparta University of Applied Sciences"
   - family-names: Aydoğan
     given-names: Tuncay
+    orcid: "https://orcid.org/0000-0001-9397-7547"
 license: MIT
 repository-code: "https://github.com/ahmetbestamikose/ars-smart-restaurant"
 preferred-citation:
   type: article
-  title: "A restaurant management prototype combining real-time facial expression recognition with association-rule menu suggestions"
+  title: "An integrated restaurant management prototype combining facial expression recognition with association-rule menu suggestions"
   authors:
     - family-names: Salman
       given-names: Beyza

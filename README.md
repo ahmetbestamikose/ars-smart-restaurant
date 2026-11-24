@@ -2,8 +2,8 @@
 
 Code and evaluation material for the article
 
-> B. Salman, Z. Söylemez, A. B. Köse, T. Aydoğan. *A restaurant management prototype combining
-> real-time facial expression recognition with association-rule menu suggestions.* Submitted to
+> B. Salman, Z. Söylemez, A. B. Köse, T. Aydoğan. *An integrated restaurant management prototype
+> combining facial expression recognition with association-rule menu suggestions.* Submitted to
 > Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi, 2026.
 
 ARS is an undergraduate thesis prototype (Isparta University of Applied Sciences, Department of
